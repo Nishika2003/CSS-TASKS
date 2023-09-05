@@ -1,0 +1,13 @@
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+tr{
+    background-color: #6ec5cb;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #6ec5cb;
+}

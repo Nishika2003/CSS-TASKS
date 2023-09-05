@@ -1,0 +1,18 @@
+#task3 {
+    font-family: 'Times New Roman';
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+} 
+#task3 td, #task3 th {
+    padding: 10px;
+} 
+#task3 tr:nth-child(even){background-color: #dbdbdb;}
+#task3 tr:hover {background-color: #939393;}
+#task3 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #08bbcb;
+    color: white;
+}
